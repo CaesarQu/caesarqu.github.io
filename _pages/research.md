@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "EagleCyberNest"
-permalink: /Research/
+permalink: /research/
 author_profile: true
 ---
 
