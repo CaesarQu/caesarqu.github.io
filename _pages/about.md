@@ -17,7 +17,7 @@ I have open positions for **graduate and undergraduate research assistants**; Pl
 
 What's New? 
 ======
-- [10/2024] Attend Florida Defense Science and Technology Symposium (FDSTS) @ UCF and present on 'Cybersecurity for Elderly Healthcare and Senior Communities'.
+- [10/2024] Attend Florida Defense Science and Technology Symposium (FDSTS) @ UCF and present on 'Cybersecurity for Smart IoT Home System for Elderly'.
 - [10/2024] DENDRITIC [Website](https://www.fgcu.edu/eng/dendritic-institute/) going online! Stay tuned for our next steps on the Education Committee!
 - [10/2024] Attend FCIE annual conference @ FGCU and present [COIL courses and AI in COIL](https://heyzine.com/flip-book/f26456f078.html#page/5). 
 - [10/2024] Our paper: Federated Learning-enabled Network Incident Anomaly Detection Optimization for Drone Swarms, was accepted by ACM/ ICDCN 2025. Congratulations, Kevin!
@@ -32,5 +32,9 @@ What's New?
 - [07/2024] Our paper: [Emotion Recognition in Dance: A Novel Approach Using Laban Movement Analysis and Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-031-61063-9_13), was accepted by HCII 2024.
 - [07/2024] Our paper: [Autonomous Video Transmission and Air-to-Ground Coordination in UAV-Swarm-Aided Disaster Response Platform](https://link.springer.com/chapter/10.1007/978-3-031-61060-8_24), was accepted by HCII 2024. Congratulations, Paulo!
 - [05/2024] Our paper: [Enhancing drone video analytics security management using an AERPAW testbed](https://ieeexplore.ieee.org/abstract/document/10620812). Congratulations, Kevin and the MIZZOU team!
+- [04/2024] Attend a series of workshops on Disaster and resilience given by Nova Southeastern U., present on 'Learning-based Network-Edge Resource Orchestration of Heterogeneous Drones for Environmental Situational Awareness'.   
+- [03/2024] Attend CyberFlorida Sunshine Cyber Conference @ Tampa and present on 'Cybersecurity for the Elderly Healthcare and Senior Communities'. Represent FGCU WCE at the Exhibition. See you all next year! 
+- [02/2024] Attend KEEN National Conference @ Austin, TX. 
+- [12/2023] Our paper: [Intelligent UAS-Edge-Server Collaboration and Orchestration in Disaster Response Management](https://ieeexplore.ieee.org/abstract/document/10477828). Congratulations, Chaise!
 - [10/2023] Received Funding on Cybersecurity for Leadership sponsored by CyberFlorida for one year.
 
