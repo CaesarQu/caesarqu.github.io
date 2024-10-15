@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching
 venue: "Florida Gulf Coast University"
-date: 2024
+date: 2024-01-15
 location: "Fort Myers, USA"
 ---
 
