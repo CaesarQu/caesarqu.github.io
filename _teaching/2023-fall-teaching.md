@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2023-fall-teaching
 venue: "Florida Gulf Coast University"
-date: 2023
+date: 2023-08-01
 location: "Fort Myers, USA"
 ---
 
