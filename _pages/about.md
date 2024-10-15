@@ -28,13 +28,22 @@ What's New?
 - [07/2024] Media Interview on [Microsoft Cybersecurity App Outages @ WINK News](https://winknews.com/2024/07/19/outages-hit-microsoft-apps-linked-to-cybersecurity-software-update/).
 - [07/2024] Media Interview on [Scammers and Frauds @ The National Desk](https://thenationaldesk.com/news/americas-news-now/more-scammers-are-getting-away-with-fraud-will-only-get-worse-as-technology-advances-cybersecurity-crime-older-americans-tips-tricks-expert-weighs-in#).
 - [07/2024] Our funding on Cybersecurity for Leadership sponsored by CyberFlorida has been extended for one more year! Congratulations on all your hard work!
-- [07/2024] Our paper: [Enhancing Autonomous Intrusion Detection System with Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/10678662), was accepted by IEEE eScience. Congratulations, Kevin!
+- [07/2024] Our paper: [Enhancing Autonomous Intrusion Detection System with Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/10678662), was accepted by IEEE eScience 2024. Congratulations, Kevin!
 - [07/2024] Our paper: [Emotion Recognition in Dance: A Novel Approach Using Laban Movement Analysis and Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-031-61063-9_13), was accepted by HCII 2024.
 - [07/2024] Our paper: [Autonomous Video Transmission and Air-to-Ground Coordination in UAV-Swarm-Aided Disaster Response Platform](https://link.springer.com/chapter/10.1007/978-3-031-61060-8_24), was accepted by HCII 2024. Congratulations, Paulo!
 - [05/2024] Our paper: [Enhancing drone video analytics security management using an AERPAW testbed](https://ieeexplore.ieee.org/abstract/document/10620812). Congratulations, Kevin and the MIZZOU team!
 - [04/2024] Attend a series of workshops on Disaster and resilience given by Nova Southeastern U., present on 'Learning-based Network-Edge Resource Orchestration of Heterogeneous Drones for Environmental Situational Awareness'.   
 - [03/2024] Attend CyberFlorida Sunshine Cyber Conference @ Tampa and present on 'Cybersecurity for the Elderly Healthcare and Senior Communities'. Represent FGCU WCE at the Exhibition. See you all next year! 
 - [02/2024] Attend KEEN National Conference @ Austin, TX. 
-- [12/2023] Our paper: [Intelligent UAS-Edge-Server Collaboration and Orchestration in Disaster Response Management](https://ieeexplore.ieee.org/abstract/document/10477828). Congratulations, Chaise!
+- [12/2023] Our paper: [Intelligent UAS-Edge-Server Collaboration and Orchestration in Disaster Response Management](https://ieeexplore.ieee.org/abstract/document/10477828), was accepted by IEEE WETICE 2023. Congratulations, Chaise!
 - [10/2023] Received Funding on Cybersecurity for Leadership sponsored by CyberFlorida for one year.
+
+CV
+=====
+Please find my detailed CV [here](../assets/Chengyi-cv.pdf).
+
+---
+
+Last modified: October 2024.
+
 
