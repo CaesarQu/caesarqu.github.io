@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+---
+
 Journal Papers or Articles
 ======
 - **(J5)** **C. Qu**, R. Singh, A. Esquivel Morel, P. Calyam. "Learning‑based Multi‑Drone Network Edge Orchestration for Video Analytics" *IEEE Transactions on Network and Service Management (TNSM), 2024*. [Link](https://ieeexplore.ieee.org/abstract/document/10631280) **Impact Factor: 4.76**
