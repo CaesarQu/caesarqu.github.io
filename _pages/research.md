@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 **Welcome to EagleCyberNest Cybersecurity Research Lab!**
+![EagleCyberNest](../images/EagleCyberNest_FGCU_CMYK_Horiz.jpg "EagleCyberNest")
+
 
 ---
 
