@@ -53,7 +53,7 @@ Niel Patel (Undergraduate Student, FGCU), joined 2024, president of the FGCU Cyb
 
 Kevin Kostage (Undergraduate Student, FGCU), joined 2023.
 
-Paulo Drefahl (Undergraduate Student, FGCU), joined 2023.
+[Paulo Drefahl](paulodrefahl.com) (Undergraduate Student, FGCU), joined 2023.
 
 
 Former Lab Members
