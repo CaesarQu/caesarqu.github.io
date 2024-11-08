@@ -17,6 +17,7 @@ I have open positions for **graduate and undergraduate research assistants**; Pl
 
 What's New? 
 ======
+- [11/2024] Proposal accepted on '[Community Workshop on Practical Reproducibility in HPC](https://reproduciblehpc.org/)', co-operated by SC 2024. Congratulations, Kevin and Dr. Guo! See you at SC 2024!
 - [10/2024] Attend Florida Defense Science and Technology Symposium (FDSTS) @ UCF and present on 'Cybersecurity for Smart IoT Home System for Elderly'.
 - [10/2024] DENDRITIC [Website](https://www.fgcu.edu/eng/dendritic-institute/) going online! Stay tuned for our next steps on the Education Committee!
 - [10/2024] Attend FCIE annual conference @ FGCU and present [COIL courses and AI in COIL](https://heyzine.com/flip-book/f26456f078.html#page/5). 
