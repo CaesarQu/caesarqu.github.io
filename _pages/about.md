@@ -17,6 +17,13 @@ I have open positions for **graduate and undergraduate research assistants**; Pl
 
 What's New? 
 ======
+- [11/2025] Our paper: 'HiFINS: A Hierarchical Federated Learning Based Interactive System for Smart Home Security', was accepted by IEEE Access. This is a huge milestone for your hard work, Kevin! And congratulations to all team members!
+- [10/2025] Congratulations to my student Sean Peppers for earning top honors at CyberBay Conference 2025! [Linkedin Post](https://www.linkedin.com/posts/chengyiqu_cyberbay2025-fgcu-wce-activity-7383977235889946625-bJDk?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKwSTUBdzs9jjDwcaTY6SmRAugzXTCkN1s)
+- [08/2025] Our paper: 'Cross-Domain Adversarial Structural Deformation Model for Post-Disaster Image Generation', was accepted by IEEE IPTA 2025. Congrats! Xiaodong, Dr. Wang, and the team!
+- [07/2025] Give an invited talk at Ritsumeikan University. Looking forward to further collaboration, Dr. Liu!
+- [06/2025] Our GenCyber Event is a HUGE success! See [Linkedin Post](https://www.linkedin.com/posts/chengyiqu_gencyber-cybersecurityeducation-fgcu-activity-7339470277405270016-yuxv?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKwSTUBdzs9jjDwcaTY6SmRAugzXTCkN1s)
+- [05/2025] Our paper: 'NetPrompt: LLM-driven Programmable Network Policy Management and Optimization', was accepted by IEEE ICCCN 2025. Congrats, Kiran, Kevin, and Sean! Thank you, Dr. Pandey and Dr. Calyam, for your support! See you in Tokyo this summer!
+- [04/2025] Our paper: 'Learning-Based UAV Swarm Video Analytics Orchestration in Disaster Response Management', was accepted by SN Computer Science Journal. Congratulations, Tiying, Dwight, and Chaise. Thank you, Dr. Liu, for your support!
 - [02/2025] Attend KEEN National Conference @ Austin, TX.
 - [01/2025] **Received Funding for GenCyber 2025 Teacher Summer Camp co-organized with FIU, sponsored by NSA and NSF.** 
 - [01/2025] Organized Cybersecurity Executive Seminar for government officials at the Florida Department of Law Enforcement (FDLE) Fort Myers Regional Operations Center (FMROC). See [Linkedin Post](https://www.linkedin.com/posts/chengyiqu_cybersecurity-governmenttraining-fgcu-activity-7287928222518829056-UG1K?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKwSTUBdzs9jjDwcaTY6SmRAugzXTCkN1s) for details.
