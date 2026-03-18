@@ -17,11 +17,14 @@ I have open positions for **graduate and undergraduate research assistants**; Pl
 
 What's New? 
 ======
+- [03/2026] Our paper: 'FLASH: A Hierarchical Federated Learning Framework for Sustainable Smart Home Networks', was accepted by the IEEE ICC 2026 workshop on SusCom: Workshop on Artificial Intelligence in Communications and Internet of Things for Sustainability. Congrats, Sean and Katharine!
+- [02/2026] Our paper: 'Soft Actor Critic-Based Adaptive Routing for QoS-Driven Post-Disaster Networks', was accepted by IEEE ICC 2026 (AR:35%). Congrats, Sean and Zhirun! This is a great achievement, Sean!
 - [01/2026]  **Received Funding from UML-FGCU Collaborative Seed Funding Program, together with Dr. Julie Zhang @ UML.** See [MyUML news](https://www.uml.edu/myuml/submissions/2026/2026-01-21-15-11-50-congratulations-to-the-inaugural-um.aspx) for details.
 - [12/2025] _Our funding on Cybersecurity for Leadership sponsored by CyberFlorida has been extended for one more semester! Congratulations on all your hard work!_
-- [12/2025] Our paper: 'DeepSet-Enhanced Edge Reinforcement Learning for UAV Autonomous Landing and Takeoff at Portable Vertiports', was accepted by IEEE ICNC 2026 (AR: 23%). Congrats, Zhirun! See you all virtually in Hawaii!
+- [12/2025] Our paper: '[DeepSet-Enhanced Edge Reinforcement Learning for UAV Autonomous Landing and Takeoff at Portable Vertiports](https://ieeexplore.ieee.org/abstract/document/11416848/)', was accepted by IEEE ICNC 2026 (AR: 23%). Congrats, Zhirun! See you all virtually in Hawaii!
 - [11/2025] Our paper: '[HiFINS: A Hierarchical Federated Learning Based Interactive System for Smart Home Security](https://ieeexplore.ieee.org/document/11224585)', was accepted by IEEE Access. This is a huge milestone for your hard work, Kevin! And congratulations to all team members!
 - [10/2025] Congratulations to my student Sean Peppers for earning top honors at CyberBay Conference 2025! [Linkedin Post](https://www.linkedin.com/posts/chengyiqu_cyberbay2025-fgcu-wce-activity-7383977235889946625-bJDk?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKwSTUBdzs9jjDwcaTY6SmRAugzXTCkN1s)
+- [09/2025] **Received WCE Head-start Research Funding on 'Quantum Reinforcement Learning for Real-Time UAV-aided Post-Disaster Transportation Infrastructure Resilience' with Dr. Jieyi Bao @ Construction Management Department.** 
 - [08/2025] Our paper: '[Cross-Domain Adversarial Structural Deformation Model for Post-Disaster Image Generation](https://ieeexplore.ieee.org/document/11222067)', was accepted by IEEE IPTA 2025. Congrats! Xiaodong, Dr. Wang, and the team!
 - [07/2025] Give an invited talk at Ritsumeikan University. Looking forward to further collaboration, Dr. Liu!
 - [06/2025] Our GenCyber Event is a HUGE success! See [Linkedin Post](https://www.linkedin.com/posts/chengyiqu_gencyber-cybersecurityeducation-fgcu-activity-7339470277405270016-yuxv?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKwSTUBdzs9jjDwcaTY6SmRAugzXTCkN1s)
