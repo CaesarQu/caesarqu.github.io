@@ -47,20 +47,35 @@ This research explores the application of deep reinforcement learning (DRL) stra
 Lab Members
 =====
 
-Sean Peppers (Undergraduate Student, FGCU), joined 2024.
+Sean Peppers (Undergraduate Student, FGCU), joined in 2024.
 
-Niel Patel (Undergraduate Student, FGCU), joined 2024, president of the FGCU Cybersecurity Club.
+Katharine Ringo (Undergraduate Student, FGCU), joined in 2025.
 
-Kevin Kostage (Undergraduate Student, FGCU), joined 2023.
+Gabriella Vallar (Undergraduate Student, FGCU), joined in 2025.
 
-[Paulo Drefahl](https://www.paulodrefahl.com/) (Undergraduate Student, FGCU), joined 2023.
+Ishita Chakkalakkal (Undergraduate Student, FGCU), joined in 2025.
+
+Abigail Morris (Undergraduate Student, FGCU), joined in 2025.
+
+Brenton Stevenson (Undergraduate Student, FGCU), joined in 2025.
+
+Derek Mesa (Graduate Student, FGCU), joined in 2026.
+
+Brian Potter (Graduate Student, FGCU), joined in 2026.
+
+Vladimir Petit-Homme (Graduate Student, FGCU), joined in 2026.
 
 
 Former Lab Members
 ===
 
-Chaise Ballotti, Undergraduate Student, FGCU.
+Chaise Ballotti, Undergraduate Student, FGCU. Joined Tech Wizards.
+
+[Paulo Drefahl](https://www.paulodrefahl.com/), Undergraduate Student, FGCU. Joined Lumen Technologies.
 
 Daniel De Sousa, Undergraduate Student, FGCU.
 
+Niel Patel, Undergraduate Student, FGCU.
+
+Kevin Kostage, Student of the Year, Undergraduate Student, FGCU. Joined the University of Missouri - Columbia as a fully funded Ph.D. student.
 
