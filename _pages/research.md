@@ -47,7 +47,7 @@ This research explores the application of deep reinforcement learning (DRL) stra
 Lab Members
 =====
 
-Sean Peppers (Undergraduate Student, FGCU), joined in 2024.
+[Sean Peppers](https://scholar.google.com/citations?user=EyKDVOgAAAAJ&hl=en) (Undergraduate Student, FGCU), joined in 2024.
 
 Katharine Ringo (Undergraduate Student, FGCU), joined in 2025.
 
@@ -77,5 +77,5 @@ Daniel De Sousa, Undergraduate Student, FGCU.
 
 Niel Patel, Undergraduate Student, FGCU.
 
-Kevin Kostage, Student of the Year, Undergraduate Student, FGCU. Joined the University of Missouri - Columbia as a fully funded Ph.D. student.
+[Kevin Kostage](https://scholar.google.com/citations?user=Bum0X50AAAAJ&hl=en), Student of the Year, Undergraduate Student, FGCU. Joined the University of Missouri - Columbia as a fully funded Ph.D. student.
 
