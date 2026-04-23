@@ -17,6 +17,7 @@ I have open positions for **graduate and undergraduate research assistants**; Pl
 
 What's New? 
 ======
+- [04/2026] Invited to serve as a panelist for NSF.
 - [03/2026] Our paper: 'FLASH: A Hierarchical Federated Learning Framework for Sustainable Smart Home Networks', was accepted by the IEEE ICC 2026 workshop on SusCom: Workshop on Artificial Intelligence in Communications and Internet of Things for Sustainability. Congrats, Sean and Katharine!
 - [02/2026] Our paper: 'Soft Actor Critic-Based Adaptive Routing for QoS-Driven Post-Disaster Networks', was accepted by IEEE ICC 2026 (AR:35%). Congrats, Sean and Zhirun! This is a great achievement, Sean!
 - [01/2026]  **Received Funding from UML-FGCU Collaborative Seed Funding Program, together with Dr. Julie Zhang @ UML.** See [MyUML news](https://www.uml.edu/myuml/submissions/2026/2026-01-21-15-11-50-congratulations-to-the-inaugural-um.aspx) for details.
@@ -68,6 +69,6 @@ Please find my detailed CV [here](../assets/Chengyi-cv.pdf).
 
 ---
 
-Last modified: Mar. 2026.
+Last modified: April 2026.
 
 
