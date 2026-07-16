@@ -17,6 +17,12 @@ I have open positions for **graduate and undergraduate research assistants**; Pl
 
 What's New? 
 ======
+- [06/2026] Our paper: 'MambaNetX: A Lightweight Multi-Modal Network Intelligence Framework with Mamba2', was accepted by the IEEE ICCC conference. Congrats, Tiying and Pengchong!
+- [06/2026] Our paper: 'Quantum-Enhanced Digital Twin Platform for Post-Disaster Transportation Systems', was accepted by the IEEE VTC 2026 Fall Conference. Congrats, Gabriella, Ishita, Tiying, Sean, and Brenton! 
+- [06/2026] Our paper: 'STGIDS: A Semantics-Constrained Temporal-Graph Framework for Rare CAN Attack Modeling and Cross-Vehicle Intrusion Detection', was accepted by the IEEE VTC 2026 Fall Conference. Congrats, Tiying, Zhirun, Derek, and Brian!
+- [05/2026] Invited to serve as a member of the FGCU Artificial Intelligence Council.
+- [05/2026] Glad to know that FGCU has ranked #83 nationally out of 441 colleges and universities in the [Cyber Power Rankings](https://cyberskyline.com/data/power-ranking/spring-2026-national) at this Spring 2026 National Cyber League Competition. I will continue to include this competition in my upcoming cybersecurity courses. Stay tuned!
+- [05/2026] Proud to announce that our team won FIRST PLACE at the eMERGE 2026 Hackathon: Project SCALPEL, beating various cybersecurity program teams all across Florida! See [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7453626636752736256/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABKwSTUBdzs9jjDwcaTY6SmRAugzXTCkN1s) for details. Congrats to Sean, Katharine, Adil, and Jeremy!
 - [04/2026] Invited to serve as a panelist for NSF.
 - [03/2026] Our paper: 'FLASH: A Hierarchical Federated Learning Framework for Sustainable Smart Home Networks', was accepted by the IEEE ICC 2026 workshop on SusCom: Workshop on Artificial Intelligence in Communications and Internet of Things for Sustainability. Congrats, Sean and Katharine!
 - [02/2026] Our paper: 'Soft Actor Critic-Based Adaptive Routing for QoS-Driven Post-Disaster Networks', was accepted by IEEE ICC 2026 (AR:35%). Congrats, Sean and Zhirun! This is a great achievement, Sean!
@@ -69,6 +75,6 @@ Please find my detailed CV [here](../assets/Chengyi-cv.pdf).
 
 ---
 
-Last modified: April 2026.
+Last modified: June 2026.
 
 
