@@ -17,7 +17,8 @@ I have open positions for **graduate and undergraduate research assistants**; Pl
 
 What's New? 
 ======
-- [06/2026] Our paper: 'MambaNetX: A Lightweight Multi-Modal Network Intelligence Framework with Mamba2', was accepted by the IEEE ICCC conference. Congrats, Tiying and Pengchong!
+- [07/2026] Our papers: 'Design of a Zero-Trust Smart Home Digital Twin Model with Quorum-Based Blockchain Verification', and 'A Digital Twin-Enabled Blockchain-based Federated Learning Framework for Adaptive Credit Card Fraud Detection', will be presented at the HCII 2026 Conference. Both projects are led by students from last year's Secure IoT course. 
+- [06/2026] Our paper: 'MambaNetX: A Lightweight Multi-Modal Network Intelligence Framework with Mamba2', was accepted by the IEEE ICCC conference. Congrats, Tiying and Pengchong! See you all at Wuhan!
 - [06/2026] Our paper: 'Quantum-Enhanced Digital Twin Platform for Post-Disaster Transportation Systems', was accepted by the IEEE VTC 2026 Fall Conference. Congrats, Gabriella, Ishita, Tiying, Sean, and Brenton! 
 - [06/2026] Our paper: 'STGIDS: A Semantics-Constrained Temporal-Graph Framework for Rare CAN Attack Modeling and Cross-Vehicle Intrusion Detection', was accepted by the IEEE VTC 2026 Fall Conference. Congrats, Tiying, Zhirun, Derek, and Brian!
 - [05/2026] Invited to serve as a member of the FGCU Artificial Intelligence Council.
