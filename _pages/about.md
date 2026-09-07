@@ -19,6 +19,9 @@ Check the most recent research projects from our lab [here](https://caesarqu.git
 
 What's New? 
 ======
+- [09/2026] Invited to serve as a Session Chair at IEEE VTC 2026 Fall Conference. See you 'online' in Boston!
+- [08/2026] Our paper: 'FALCON: Federated Analytics with Blockchain and Digital Twins for Trustworthy Fraud Detection', was accepted at the 1st Workshop on Trustworthy Edge Intelligence for Federated Learning and Unlearning in Distributed Systems (FederatedEdge 2026), part of the ACM/IEEE Symposium on Edge Computing, 2026. Congrats! Tiying, Vladimir, Sean! Again, see you soon in San Jose!
+- [08/2026] Our papers: 'Edge-Native Federated Time-Series Anomaly Detection for Resource-Constrained IoMT' and 'Edge Intelligence based Decision-Support Application for Coordinated Truck–Drone Logistics', were accepted at the 3rd Workshop on Edge Intelligence, part of the ACM/IEEE Symposium on Edge Computing, 2026. Congrats! Derek, Brenton, Kevin, and Tiying! See you soon in San Jose!
 - [07/2026] Check the most recent [news](https://fgcu360.com/2026/07/16/eaglecybernest-lab-gives-students-real-world-cybersecurity-experience/?utm_source=fgcu360&utm_medium=email&utm_campaign=fgcu360_newsletter_aug2026&utm_content=eaglecybernest) of our EagleCyberNest Lab! 
 - [06/2026] Our paper: 'MambaNetX: A Lightweight Multi-Modal Network Intelligence Framework with Mamba2', was accepted by the IEEE ICCC conference. Congrats, Tiying and Pengchong! See you all in Wuhan, China!
 - [06/2026] Our paper: 'Quantum-Enhanced Digital Twin Platform for Post-Disaster Transportation Systems', was accepted by the IEEE VTC 2026 Fall Conference. Congrats, Gabriella, Ishita, Tiying, Sean, and Brenton! 
