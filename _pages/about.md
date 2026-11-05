@@ -19,6 +19,10 @@ Check the most recent research projects from our lab [here](https://caesarqu.git
 
 What's New? 
 ======
+- [11/2026] Serve as TPC member at IEEE ICC CISS and IEEE ICNC ECB/SCDM.
+- [10/2026] Serve as a invited session chair at HCII 2027: Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management, session topic on: Human-Centered Cybersecurity, Privacy, and Risk Management in Digital Health. Looking forward to receiving your submissions!
+- [10/2026] Organize FGCU First Quantum Hackathon, part of IBM Qiskit Fall Fest.
+- [10/2026] Three of our papers are accepted at IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT 2026). What a great achievement! They are: i) 'Mamba2-Driven Cross-Layer Intrusion Detection for Internet of Medical Things Systems', author by: Tiying Gao, Derek Mesa; ii) 'Intelligent Time-Series Prediction Models for CAN Intrusion Detection: Experiments and Opportunities', author by: Zhirun Li, Tiying Gao; iii) 'RescueLAM: A Retrieval-Augmented Large Action Model for Aerial-Ground Search and Rescue', author by: Abigail Morris, Tiying Gao, Sean Peppers. Congrats to you all! 
 - [09/2026] Our paper: 'KRONOS: A Knowledge Graph-Driven Framework for P4-Orchestrated Adaptive Drone-Edge Networks', was accepted by the IEEE CNSM conference. Congrats, Bishwas, Kiran, Kevin, and Roshan! See you virtually in Madrid!
 - [09/2026] Invited to serve as a Session Chair at IEEE VTC 2026 Fall Conference. See you 'online' in Boston!
 - [08/2026] Our paper: 'FALCON: Federated Analytics with Blockchain and Digital Twins for Trustworthy Fraud Detection', was accepted at the 1st Workshop on Trustworthy Edge Intelligence for Federated Learning and Unlearning in Distributed Systems (FederatedEdge 2026), part of the ACM/IEEE Symposium on Edge Computing, 2026. Congrats! Tiying, Vladimir, Sean! Again, see you soon in San Jose!
@@ -84,6 +88,6 @@ Please find my detailed CV [here](../assets/Chengyi-cv.pdf).
 
 ---
 
-Last modified: June 2026.
+Last modified: Oct 2026.
 
 
