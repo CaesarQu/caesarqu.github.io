@@ -19,6 +19,7 @@ Check the most recent research projects from our lab [here](https://caesarqu.git
 
 What's New? 
 ======
+- [11/2026] Our paper: 'Improving Resilience in Federated Learning against Data Poisoning and Network Disruption at the Edge', has been accepted by Pervasive and Mobile Computing Journal (Impact factor: 3.9). Great work and congrats to Bishwas and Kevin!
 - [11/2026] Serve as TPC member at IEEE ICC CISS and IEEE ICNC ECB/SCDM.
 - [10/2026] Serve as a invited session chair at HCII 2027: Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management, session topic on: Human-Centered Cybersecurity, Privacy, and Risk Management in Digital Health. Looking forward to receiving your submissions!
 - [10/2026] Organize FGCU First Quantum Hackathon, part of IBM Qiskit Fall Fest.
